@@ -1,3 +1,4 @@
 #!/usr/bin/python
 
-print("Hello Bioinformatics!")
+print("Hello World!")
+
