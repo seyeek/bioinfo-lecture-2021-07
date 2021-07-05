@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-print("Hello python")
+print("Hello Bioinformatics")
 
