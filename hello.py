@@ -1,6 +1,6 @@
 #!/usr/bin/python
-
 import sys
+
 print(sys.argv)
 
 name1 = sys.argv[1]
